@@ -1,0 +1,2 @@
+# APICallSwiftKSK
+API class
